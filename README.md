@@ -1,5 +1,5 @@
 # MachineLearningPS
-Personal projects focusing on testing ML and AI knowledge on various data.
+Personal projects of Huarui Zhang focusing on testing ML and AI knowledge on various data.
 
 Please refer to each folder and their respective notebook for detail.
 
